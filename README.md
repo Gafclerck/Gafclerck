@@ -14,12 +14,7 @@
 
 ### 👨‍💻 À propos de moi
 
-- 🎓 Étudiant en **Génie Logiciel, Réseaux et Systèmes** à l'**ISM Dakar**, en double diplôme avec l'**Université Champollion Toulouse** (fin de cursus prévue en juin 2027)
-- 🧠 Solide background en **mathématiques et physique**, orienté vers l'ingénierie **IA/ML**
-- 🛠️ Développeur **backend & mobile**, à l'aise sur toute la chaîne : conception, API, base de données, front
-- 🎯 Head of Educational Division à l'**ISM Dakar IT Club**
-- 🏆 Top 3 au hackathon **VCN** (organisé par l'UNCHK) · 🥇 1er Prix au **Concours National de Physique 2024** (Togo)
-- 💼 Ancien stagiaire backend chez **Fluenten** (FastAPI, PostgreSQL, Stripe, JWT)
+- Curieux et Passionné
 
 ---
 
