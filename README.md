@@ -65,12 +65,6 @@
 
 </div>
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Gafclerck&theme=tokyonight&no-frame=true&row=1&column=6)
-
-</div>
-
 ---
 
 <div align="center">
