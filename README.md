@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&customColorList=6,11,20\&height=220\&section=header\&text=Hey%2C%20I'm%20Gafar%20👋\&fontSize=42\&fontColor=fff\&animation=fadeIn\&fontAlignY=35\&desc=Software%20Engineer%20%7C%20Backend%20%26%20Mobile%20Developer\&descAlignY=55\&descSize=18)
+![Header](https://vercel.app👋&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20%26%20Mobile%20Developer&descAlignY=55&descSize=18)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code\&size=22\&pause=1000\&color=6C63FF\&center=true\&vCenter=true\&width=600\&lines=Génie+Logiciel%2C+Réseaux+et+Systèmes+%40+ISM+Dakar;Backend+%7C+Mobile+%7C+En+route+vers+l%27IA%2FML;FastAPI+%C2%B7+Laravel+%C2%B7+Flutter+%C2%B7+PostgreSQL)](https://git.io/typing-svg)
 
