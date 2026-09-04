@@ -21,8 +21,7 @@
 ### 🚀 Actuellement
 
 - 📱 Formation **FlutterFire Summer Camp 2026** : Flutter, Dart, Firebase
-- 🔧 Construction de **TaskFlow**, une API collaborative de gestion de tâches en **Laravel** (auth, autorisations, form requests, API resources)
-- 📚 Approfondissement de l'architecture logicielle (MVC, Clean Architecture) et des bonnes pratiques backend
+- 📚 Approfondissement de l'architecture logicielle (Clean Architecture) et des bonnes pratiques backend
 
 ---
 
