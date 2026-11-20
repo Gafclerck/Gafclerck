@@ -4,7 +4,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code\&size=22\&pause=1000\&color=6C63FF\&center=true\&vCenter=true\&width=700\&lines=G%C3%A9nie+Logiciel%2C+R%C3%A9seaux+et+Syst%C3%A8mes+;Backend+%7C+Mobile+%7C+En+route+vers+l%27IA%2FML;FastAPI+%C2%B7+Laravel+%C2%B7+Flutter+%C2%B7+PostgreSQL)](https://git.io/typing-svg)
+<strong> AMADOU Abdoul - Gafar </strong>
 
 <br>
 
