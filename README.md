@@ -1,11 +1,6 @@
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:30363d&height=180&section=header&text=Gafar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20and%20Mobile&descAlignY=60&descSize=18&descColor=bbbbbb)
-
-<br>
-
-<strong> AMADOU Abdoul - Gafar </strong>
-
 <br>
 
 <a href="https://www.linkedin.com/in/abdoul-gafar-amadou">
