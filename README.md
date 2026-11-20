@@ -30,14 +30,6 @@ Curieux et passionné
 
 ---
 
-## 🚀 Actuellement
-
-* 📱 Formation **FlutterFire Summer Camp 2026**
-* 🧠 Approfondissement de **Clean Architecture**
-* 🤖 Progression vers l'**IA / Machine Learning**
-
----
-
 ## 🛠️ Stack technique
 
 <div align="center">
